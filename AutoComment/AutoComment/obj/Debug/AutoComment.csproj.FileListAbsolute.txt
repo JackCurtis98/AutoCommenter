@@ -1,0 +1,9 @@
+c:\users\daddy\documents\visual studio 2017\Projects\AutoComment\AutoComment\bin\Debug\AutoComment.exe.config
+c:\users\daddy\documents\visual studio 2017\Projects\AutoComment\AutoComment\bin\Debug\AutoComment.exe
+c:\users\daddy\documents\visual studio 2017\Projects\AutoComment\AutoComment\bin\Debug\AutoComment.pdb
+c:\users\daddy\documents\visual studio 2017\Projects\AutoComment\AutoComment\obj\Debug\AutoComment.csprojResolveAssemblyReference.cache
+c:\users\daddy\documents\visual studio 2017\Projects\AutoComment\AutoComment\obj\Debug\AutoComment.frmMain.resources
+c:\users\daddy\documents\visual studio 2017\Projects\AutoComment\AutoComment\obj\Debug\AutoComment.Properties.Resources.resources
+c:\users\daddy\documents\visual studio 2017\Projects\AutoComment\AutoComment\obj\Debug\AutoComment.csproj.GenerateResource.Cache
+c:\users\daddy\documents\visual studio 2017\Projects\AutoComment\AutoComment\obj\Debug\AutoComment.exe
+c:\users\daddy\documents\visual studio 2017\Projects\AutoComment\AutoComment\obj\Debug\AutoComment.pdb
